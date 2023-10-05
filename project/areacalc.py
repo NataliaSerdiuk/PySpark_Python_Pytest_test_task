@@ -3,6 +3,8 @@ import math
 class Figure:
     def __init__(self):
         pass
+    def get_area(self):
+        return area
 
 class Circle(Figure):
     def __str__(self, radius):
